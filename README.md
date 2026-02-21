@@ -35,11 +35,10 @@ Annotated video with bounding boxes, class labels, tracking IDs, and vehicle cou
 
 ## 🖼️ Sample Outputs
 
-### Detection & Tracking
-![Detection and Tracking Output](outputs/frame_1.png)
+<img width="1883" height="1032" alt="image" src="https://github.com/user-attachments/assets/cd7247db-013c-44f7-a6f9-23928a72a548" />
+<img width="1886" height="1025" alt="image" src="https://github.com/user-attachments/assets/33ae725e-c566-4f6d-8912-7f69e840076a" />
 
-### Counting Output
-![Vehicle Counting Output](outputs/frame_2.png)
+
 
 🙌 Credits
 
