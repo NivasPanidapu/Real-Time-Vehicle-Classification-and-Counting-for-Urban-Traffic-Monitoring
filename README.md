@@ -1,18 +1,41 @@
-# Real-Time-Vehicle-Classification-and-Counting-for-Urban-Traffic-Monitoring
+Real-Time-Vehicle-Classification-and-Counting-for-Urban-Traffic-Monitoring
 
 This project demonstrates a real-time system for detecting, classifying, and counting vehicles in urban traffic using YOLOv11 and ByteTrack. It provides an efficient way to monitor traffic and support urban planning with accurate vehicle tracking.
 
-## Features
-- Detects and classifies vehicles into categories: car, motorcycle, bus, truck, and van.
-- Tracks vehicles across video frames using ByteTrack.
-- Counts vehicles crossing a defined line in the video.
-- Generates an annotated video with bounding boxes, labels, and counts for visualization.
+🎥 Demo Video
 
-## Technologies Used
-- **Python**: Programming language.
-- **YOLOv11**: Advanced object detection model.
-- **ByteTrack**: Multi-object tracking framework.
-- **Supervision Library**: Used for annotations and processing.
-## Credits
-- **YOLOv11**: Model by [Ultralytics](https://github.com/ultralytics).
-- **Roboflow**: Dataset management and model versioning, and for providing resources for a similar project used as a reference
+Watch the full project demo (real-time detection, tracking, and counting output):
+👉 YouTube (Unlisted): https://www.youtube.com/watch?v=FF-d8_Xs5RA&list=PLr9Cx7KjEMo-7V4QYcDyIt0EXhSM2_J2v
+
+The demo showcases vehicle detection, multi-object tracking using ByteTrack, and line-crossing-based counting on real-world traffic footage.
+
+🚀 Features
+
+Detects and classifies vehicles into categories: car, motorcycle, bus, truck, and van.
+
+Tracks vehicles across video frames using ByteTrack.
+
+Counts vehicles crossing a defined line in the video.
+
+Generates an annotated video with bounding boxes, labels, and counts for visualization.
+
+🛠️ Technologies Used
+
+Python: Programming language
+
+YOLOv11: Advanced object detection model
+
+ByteTrack: Multi-object tracking framework
+
+Supervision Library: Used for annotations and processing
+
+📁 Output
+
+Annotated video with bounding boxes, class labels, tracking IDs, and vehicle counts
+
+
+🙌 Credits
+
+YOLOv11: Model by Ultralytics
+
+Roboflow: Dataset management and model versioning, and for providing resources for a similar project used as a reference
