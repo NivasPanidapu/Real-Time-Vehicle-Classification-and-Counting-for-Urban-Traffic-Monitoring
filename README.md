@@ -33,6 +33,13 @@ Supervision Library: Used for annotations and processing
 
 Annotated video with bounding boxes, class labels, tracking IDs, and vehicle counts
 
+## 🖼️ Sample Outputs
+
+### Detection & Tracking
+![Detection and Tracking Output](outputs/frame_1.png)
+
+### Counting Output
+![Vehicle Counting Output](outputs/frame_2.png)
 
 🙌 Credits
 
